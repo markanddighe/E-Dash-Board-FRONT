@@ -1,0 +1,16 @@
+.section {
+    background-color: #eee;
+
+}
+.section1 {
+    border-radius: 25px;
+}
+.buttoncl {
+    color: white;
+    text-decoration: none;
+}
+/* .buttoncl:hover {
+    color: blue;
+    background-color: #eee;
+    text-decoration: none;
+} */

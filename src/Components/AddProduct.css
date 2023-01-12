@@ -1,0 +1,26 @@
+.product {
+    margin-left: 30%;
+    /* width: 500px; */
+}
+
+.inputBox {
+    padding: 7px;
+    display: block;
+    width: 500px;
+    margin: 20px;
+}
+
+.addButton {
+    
+    margin: 20px;
+    width: 150px;
+    padding: 10px;
+    background-color: orange;
+    border: solid 1px;
+    cursor: pointer;
+}
+
+.invalid-input {
+    color: red;
+    display: block;
+}
